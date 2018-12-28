@@ -1,0 +1,11 @@
+{
+    "name": "Dedupleque for Chrome",
+    "version": "1.0",
+    "description": "KISS bookmarks deduplicator",
+    "manifest_version": 2,
+    "permissions": ["bookmarks"],
+    "browser_action": {
+        "default_title": "Dedupleque",
+        "default_popup": "popup.html"
+    }
+}
